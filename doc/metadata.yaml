@@ -1,7 +1,7 @@
 description: Bluetooth controller for UART HCI-based communication with external host
   MCU using CC3301
 github_branch: BLE03
-github_branches:
+github_branches: null
 github_description: Bluetooth controller for UART HCI-based communication with external
   host MCU using CC3301
 github_repo: BLE03
@@ -18,9 +18,9 @@ images:
 - hw/cam_profi/assembly/BLE03-assembly_page_02.svg
 - hw/cam_profi/assembly/BLE03-assembly_page_01.svg
 issues: 2
-status: 2
 mark: 50
 mod_scheme: doc/gen/BLE03-schematic.pdf
+status: 2
 tags: []
 title: BLE03
-updated: '2026-02-14T23:42:57.263560+00:00'
+updated: '2026-02-14T23:48:38.958184+00:00'
