@@ -5,4 +5,5 @@ eda:
   type: kicad
 gerbers: hw/cam_profi/
 site: https://github.com/mlab-modules/BLE03
-summary: BLE03 - CC3301 based Bluetooth 5.4 controller
+summary: Bluetooth controller for UART HCI-based communication with external host
+  MCU using CC3301

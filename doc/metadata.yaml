@@ -1,8 +1,10 @@
-description: BLE03 - CC3301 based Bluetooth 5.4 controller
+description: Bluetooth controller for UART HCI-based communication with external host
+  MCU using CC3301
 github_branch: MODUL01A
 github_branches:
 - MODUL01A
-github_description: BLE03 - CC3301 based Bluetooth 5.4 controller
+github_description: Bluetooth controller for UART HCI-based communication with external
+  host MCU using CC3301
 github_repo: BLE03
 github_url: https://github.com/mlab-modules/BLE03
 homepage: false
@@ -11,4 +13,4 @@ issues: 2
 mark: 50
 tags: []
 title: BLE03
-updated: '2026-02-13T13:36:50.857105+00:00'
+updated: '2026-02-14T21:58:38.329784+00:00'
