@@ -8,9 +8,18 @@ github_description: Bluetooth controller for UART HCI-based communication with e
 github_repo: BLE03
 github_url: https://github.com/mlab-modules/BLE03
 homepage: false
-images: []
+images:
+- doc/gen/img/BLE03-bottom.png
+- doc/gen/img/BLE03-top.png
+- doc/gen/BLE03-Connectors.svg
+- doc/gen/BLE03-schematic.svg
+- doc/gen/img/BLE03-top.svg
+- doc/gen/img/BLE03-bottom.svg
+- hw/cam_profi/assembly/BLE03-assembly_page_02.svg
+- hw/cam_profi/assembly/BLE03-assembly_page_01.svg
 issues: 2
 mark: 50
+mod_scheme: doc/gen/BLE03-schematic.pdf
 tags: []
 title: BLE03
-updated: '2026-02-14T23:23:21.625806+00:00'
+updated: '2026-02-14T23:25:14.384566+00:00'
