@@ -1,1 +1,8 @@
 Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+"J3","JUMP_5X2","Straight_2x04",165.2561,-118.9974,0.0000,top
+"J4","Conn_Coaxial","MCX",136.7611,-107.7124,0.0000,top
+"J5","HEADER_2x06_PARALLEL","Straight_2x06",150.2761,-116.4574,0.0000,top
+"M1","HOLE","MountingHole_3mm",125.2808,-99.8042,0.0000,top
+"M2","HOLE","MountingHole_3mm",125.2808,-106.9037,0.0000,top
+"M3","HOLE","MountingHole_3mm",125.2808,-114.0032,0.0000,top
+"M4","HOLE","MountingHole_3mm",125.2808,-121.1027,0.0000,top
