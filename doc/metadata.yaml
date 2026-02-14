@@ -1,6 +1,6 @@
 description: Bluetooth controller for UART HCI-based communication with external host
   MCU using CC3301
-github_branch: MODUL01A
+github_branch: BLE03
 github_branches:
 - MODUL01A
 github_description: Bluetooth controller for UART HCI-based communication with external
@@ -13,4 +13,4 @@ issues: 2
 mark: 50
 tags: []
 title: BLE03
-updated: '2026-02-14T22:05:27.248784+00:00'
+updated: '2026-02-14T22:05:55.301909+00:00'
