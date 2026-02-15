@@ -21,6 +21,10 @@ issues: 2
 mark: 50
 mod_scheme: doc/gen/BLE03-schematic.pdf
 status: 2
-tags: []
+tags:
+- bluetooth-low-energy
+- hci
+- mlab-module
+- wifi
 title: BLE03
-updated: '2026-02-15T00:03:14.311746+00:00'
+updated: '2026-02-15T00:05:06.815392+00:00'
