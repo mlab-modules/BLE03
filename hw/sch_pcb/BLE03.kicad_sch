@@ -2550,6 +2550,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "Tady možná bude potřeba nějaký RC člen kvůli spoždění resetu po zapnutí napájení."
+		(exclude_from_sim no)
+		(at 64.77 74.93 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "94c886d5-b4ae-4178-9e32-ee43658cef62")
+	)
 	(text "MOUNTING HOLES"
 		(exclude_from_sim no)
 		(at 99.06 175.26 0)
