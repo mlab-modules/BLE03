@@ -20,7 +20,7 @@ images:
 issues: 2
 mark: 50
 mod_scheme: doc/gen/BLE03-schematic.pdf
-status: 2
+status: 1
 tags:
 - bluetooth-low-energy
 - hci
