@@ -5700,7 +5700,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "1k"
 			(at 68.58 69.85 90)
 			(effects
 				(font
